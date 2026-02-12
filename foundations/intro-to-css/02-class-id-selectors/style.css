@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.one {
+    color: black;
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 50px;
+}
+
+.adjust-size {
+    font-size: 30px;
+
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
