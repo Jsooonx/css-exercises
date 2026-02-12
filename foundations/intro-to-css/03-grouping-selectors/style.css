@@ -1,1 +1,14 @@
 /* Add CSS Styling */
+.click, .no {
+    font-size: 20px;
+    font-family: Helvetica, sans-serif;
+}
+
+.click {
+    color: white;
+    background-color: black;
+}
+
+.no {
+    background-color: yellow;
+}
